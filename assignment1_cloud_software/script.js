@@ -1,1 +1,0 @@
-//No JavaScript was used at the moment
